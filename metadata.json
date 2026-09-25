@@ -1,0 +1,7 @@
+{
+  "name": "EduTin THPT - Nền tảng Tin học Kết nối tri thức",
+  "description": "Nền tảng Quản lý Lớp học, Bài giảng Tin học 10-11-12 bộ Kết nối tri thức, Kiểm tra Trắc nghiệm & Tự luận tự động chấm, Phân tích phổ điểm và Trợ lý AI gợi ý học tập cá nhân hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
